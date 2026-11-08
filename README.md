@@ -45,6 +45,12 @@ claude --plugin-dir ./Soulog-Plugin
 
 Then run `/mcp` and authenticate the `soulog` server.
 
+## Data handling
+
+- **What it reads:** your Soulog recordings' metadata, transcripts, summaries, notes, Spaces and to-dos, which may include names and other personal information, through the Soulog connector you authorize.
+- **What it stores:** only when you confirm, `save-to-soulog` saves content from your Claude conversation to your Soulog account as a new note, and `send-to-workflow` can add to-dos to Soulog. Saved content stays in your Soulog account until you delete it.
+- **Where else data goes:** only when you ask and confirm, `send-to-workflow` sends a recap or action items to other docs or task tools that **you** have connected in Claude (for example Notion, Google Docs, Asana or Linear). The plugin declares no other services, and it does not send data anywhere on its own.
+
 ## Privacy and support
 
 - Privacy policy: https://web.prod-us.soulog.com/article/privacy-security
