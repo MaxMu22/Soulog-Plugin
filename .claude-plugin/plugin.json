@@ -1,0 +1,29 @@
+{
+  "name": "soulog",
+  "displayName": "Soulog",
+  "version": "0.1.0",
+  "description": "Bring your Soulog recordings, transcripts and summaries into your everyday work: recap meetings with sourced decisions and action items, ask questions across your Logs, hand results to the docs and task tools you already use, and save what you create back to Soulog.",
+  "author": {
+    "name": "Soulog Inc.",
+    "email": "max.mu@soulog.com",
+    "url": "https://www.soulog.com/"
+  },
+  "homepage": "https://www.soulog.com/",
+  "repository": "https://github.com/MaxMu22/Soulog-Plugin",
+  "license": "MIT",
+  "keywords": [
+    "soulog",
+    "meetings",
+    "transcripts",
+    "recordings",
+    "summaries",
+    "action-items",
+    "productivity",
+    "mcp"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://web.prod-us.soulog.com/mcp-guide",
+  "supportUrl": "https://www.soulog.com/pages/service-and-support",
+  "privacyPolicyUrl": "https://web.prod-us.soulog.com/article/privacy-security",
+  "termsOfServiceUrl": "https://web.prod-us.soulog.com/article/terms"
+}

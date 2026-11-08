@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "soulog": {
+      "type": "http",
+      "url": "https://api.prod-us.soulog.com/mcp"
+    }
+  }
+}

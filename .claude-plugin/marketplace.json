@@ -1,0 +1,15 @@
+{
+  "name": "soulog",
+  "description": "Official Soulog plugin for Claude: recap meetings, ask across your Logs, send results to your tools, and save work back to Soulog.",
+  "owner": {
+    "name": "Soulog Inc.",
+    "email": "max.mu@soulog.com"
+  },
+  "plugins": [
+    {
+      "name": "soulog",
+      "source": "./",
+      "description": "Bring your Soulog recordings, transcripts and summaries into your everyday work, and save what you create back to Soulog."
+    }
+  ]
+}
